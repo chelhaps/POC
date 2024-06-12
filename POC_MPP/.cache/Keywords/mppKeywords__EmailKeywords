@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B59F4DBF814D20144B663BD8480E06F2",
+  "keywordClasses": [
+    {
+      "name": "mppKeywords.EmailKeywords",
+      "keywordMethods": [
+        {
+          "name": "fetchEmailVerifyURL",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

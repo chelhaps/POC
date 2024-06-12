@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>MPP</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://www.diginuance.com'</initValue>
+      <name>G_SiteURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aumpptest1@gmail.com'</initValue>
+      <name>G_Email_To</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aumpptest1@gmail.com'</initValue>
+      <name>G_Email_Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'vrde nisq ssfp scdy'</initValue>
+      <name>G_Email_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MPP Application Submitted in Review'</initValue>
+      <name>G_Email_Subject</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'a[href*=/confirm/account/]'</initValue>
+      <name>G_Confirm_Url_Search_Expr</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://application.aspen.edu/'</initValue>
+      <name>G_Confirm_Url_Part</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'imap.gmail.com'</initValue>
+      <name>G_Host_Imap</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>8993</initValue>
+      <name>G_Port</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

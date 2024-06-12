@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "A478D73B652C9B731AAA72E574CB4CF9",
+  "keywordClasses": [
+    {
+      "name": "mppKeywords.PDFKeywords",
+      "keywordMethods": [
+        {
+          "name": "readPDF",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
